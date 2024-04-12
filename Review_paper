@@ -1,0 +1,9 @@
+Review paper
+Title: Leveraging Machine Learning Techniques for Crop Prediction in Sustainable Agriculture: A Review
+
+This review paper delves into the application of machine learning (ML) techniques, including Random Forest, Support Vector Machine (SVM), and k-Nearest Neighbors (kNN), in crop prediction for sustainable agriculture practices. Sustainable farming requires accurate predictions of crop yields and optimal resource allocation, making ML an invaluable tool in achieving these objectives. Through an exhaustive review of research from reputable publications, this paper examines the efficacy of Random Forest, SVM, and kNN algorithms in crop prediction based on input features such as nutrient levels, soil information, and rainfall patterns of specific land areas.
+
+Recent studies have demonstrated the superiority of ensemble methods like Random Forest in handling complex agricultural datasets, while SVM has shown promise in classifying crops based on various soil and climate factors. Additionally, kNN algorithms have been effective in predicting crop yields by leveraging neighboring data points in similar environments. 
+
+Furthermore, this paper proposes a comprehensive system architecture that integrates these ML techniques with relevant input features to create a robust crop prediction model. By harnessing the power of advanced ML algorithms and leveraging diverse input data, this proposed system aims to optimize agricultural practices, enhance crop productivity, and promote sustainable farming methods for a more resilient agricultural future.
+
